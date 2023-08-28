@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL here](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/solutions)
-- Live Site URL: [Live site URL here](https://bottom17.github.io/testimonials-challenge/)
+- Live Site URL: [Live site URL here](https://bottom17.github.io/testimonials-grid-section-challenge/)
 
 ## My process
 
