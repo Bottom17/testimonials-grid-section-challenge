@@ -1,0 +1,5 @@
+.footer__content {
+  text-align: center;
+  font-size: var(--size-xs);
+  user-select: none;
+}
